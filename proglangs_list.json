@@ -22,3 +22,26 @@ var proglangs = [
 "Scala",
 "Scheme"
 ];
+
+// http://www.w3schools.com/tags/ref_color_tryit.asp?hex=FFFFFF 
+var webcolors = [
+"#0000FF",
+"#8A2BE2",	// 138,43,226
+"#A52A2A",	// 165,42,42 Brown
+"#DEB887",	// 222,184,135 BurlyWood
+"#5F9EA0",
+"#7FFF00",
+"#D2691E",
+"#FF7F50",
+"#6495ED",
+"#FFF8DC",
+"#DC143C",
+"#00FFFF",
+"#00008B",
+"#008B8B",
+"#B8860B",
+"#A9A9A9",
+"#006400",
+"#BDB76B"
+]
+
