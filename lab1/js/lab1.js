@@ -1,0 +1,1 @@
+/* JavaScript for LAB1 IS-104 høsten 2013 */
